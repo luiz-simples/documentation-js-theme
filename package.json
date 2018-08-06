@@ -1,6 +1,6 @@
 {
-  "name": "clean-documentation-theme",
-  "version": "0.5.2",
+  "name": "documentation-js-theme",
+  "version": "0.0.1",
   "description": "Theme for documentation.js",
   "main": "lib/index.js",
   "scripts": {
@@ -16,14 +16,11 @@
   "keywords": [
     "doc",
     "docs",
-    "documentation",
-    "documentation.js",
     "jsdoc",
     "jsdoc3",
     "theme"
   ],
-  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "babel-plugin-transform-inline-imports-commonjs": "^1.2.0",
     "concat-stream": "^1.6.0",
@@ -65,14 +62,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dignifiedquire/clean-documentation-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/dignifiedquire/clean-documentation-theme/issues"
-  },
-  "homepage": "https://github.com/dignifiedquire/clean-documentation-theme",
-  "contributors": [
-    "dignifiedquire <dignifiedquire@gmail.com>",
-    "ᴠɪᴄᴛᴏʀ ʙᴊᴇʟᴋʜᴏʟᴍ <victorbjelkholm@gmail.com>"
-  ]
+    "url": "git@github.com:luiz-simples/documentation-js-theme.git"
+  }
 }
